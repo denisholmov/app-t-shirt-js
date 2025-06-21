@@ -1,0 +1,44 @@
+[
+  {
+    "id": "el1",
+    "name": "T-shirt-1",
+    "img": "https://i.ibb.co/r3N2kWq/1.jpg",
+    "price": 2000
+  },
+  {
+    "id": "el2",
+    "name": "T-shirt-2",
+    "img": "https://i.ibb.co/pLWrC5x/2.jpg",
+    "price": 2500
+  },
+  {
+    "id": "el3",
+    "name": "T-shirt-3",
+    "img": "https://i.ibb.co/j5CbQDs/3.jpg",
+    "price": 2400
+  },
+  {
+    "id": "el4",
+    "name": "T-shirt-4",
+    "img": "https://i.ibb.co/4ppmK3x/4.jpg",
+    "price": 2300
+  },
+  {
+    "id": "el5",
+    "name": "T-shirt-5",
+    "img": "https://i.ibb.co/MPCPfZr/5.jpg",
+    "price": 2200
+  },
+  {
+    "id": "el6",
+    "name": "T-shirt-6",
+    "img": "https://i.ibb.co/9Yg9K2G/6.jpg",
+    "price": 2000
+  },
+  {
+    "id": "el7",
+    "name": "T-shirt-7",
+    "img": "https://i.ibb.co/Z2sX0nG/7.jpg",
+    "price": 2100
+  }
+]

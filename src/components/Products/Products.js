@@ -57,5 +57,3 @@ class Products {
 }
 
 const productsPage = new Products();
-
-productsPage.render();
