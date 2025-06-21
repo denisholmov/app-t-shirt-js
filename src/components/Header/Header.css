@@ -1,0 +1,16 @@
+.header {
+  margin-bottom: 10px;
+  height: 50px;
+  background-color: var(--color-medium);
+}
+
+.header__container {
+  height: 100%;
+  padding: 10px;
+}
+
+.header__counter {
+  text-align: end;
+  font-weight: bold;
+  cursor: pointer;
+}
