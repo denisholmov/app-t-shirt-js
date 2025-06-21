@@ -38,4 +38,3 @@ class Shopping {
 }
 
 const shoppingPage = new Shopping();
-shoppingPage.render();
