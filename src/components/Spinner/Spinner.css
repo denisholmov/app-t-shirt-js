@@ -1,0 +1,13 @@
+.spinner__container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+}
+
+.spinner__img {
+  background-image: url('./img/spinner.svg');
+  width: 200px;
+  height: 200px;
+}
